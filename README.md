@@ -7,9 +7,10 @@ Aplicação feita para consumir outras APIs e exibir em forma de figurinha de wh
 
 <h2 align="left"> Funcionalidades </h2>
 
-- `Commit: Consumindo uma API de filmes`: Consome a API do IMDB e exibe os filmes, destacando seus pôsteres e visualizando sua classificação. Sem biblioteca externa
-- `Commit: Gerando figurinhas para Whatsapp`: Gera figurinha dos filmes para serem enviadas pelo whatsapp. Utiliza bibliotecas nativas do Java
+- `Commit: Consumindo uma API de filmes`: Consome a API do IMDB e exibe os filmes, destacando seus pôsteres e visualizando sua classificação. Sem biblioteca externa.
+- `Commit: Gerando figurinhas para Whatsapp`: Gera figurinha dos filmes para serem enviadas pelo whatsapp. Utiliza bibliotecas nativas do Java.
 - `Gerando figurinhas para Whatsapp`: Consome a API da NASA e exibe as fotos. Melhor refatoração no codigo para ser mais flexível e fácil de entender.
+- `Otimizacao do cogido`: Criação do ENUM API, tratamento de erro personalizada, otimizacao de codigo. 
 
 <h2 align="left"> Documentação </h2>
 
